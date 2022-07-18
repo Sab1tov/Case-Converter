@@ -1,0 +1,9 @@
+.buttons button{
+    font-size: 26px;
+    background-color: #ffa17b;
+    border: 1px solid black;
+}
+h1{
+    font-size: 40px;
+    font-family: "Calibri Light", serif;
+}
